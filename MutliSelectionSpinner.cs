@@ -8,7 +8,7 @@ using Android.Views;
 using Android.Util;
 using Android.Widget;
 
-namespace polymorphandroid
+namespace androidui
 {
     class MultiSelectionSpinner : Spinner, IDialogInterfaceOnMultiChoiceClickListener
     {
